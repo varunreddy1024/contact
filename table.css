@@ -121,7 +121,7 @@
 }
 
 .add-main-one {
-    padding-left: 70px;
+    padding-left: 100px;
 }
 
 @media screen and (max-width:500px) {
@@ -139,5 +139,9 @@
         margin-left: 0px;
         margin-right: 0px;
         border-radius: 0px;
+    }
+    .add-main-one {
+        padding-left: 0px;
+        text-align: center;
     }
 }
